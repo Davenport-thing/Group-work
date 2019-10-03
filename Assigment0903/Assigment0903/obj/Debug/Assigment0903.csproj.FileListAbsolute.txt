@@ -1,0 +1,7 @@
+E:\Assigment0903\Assigment0903\bin\Debug\Assigment0903.exe.config
+E:\Assigment0903\Assigment0903\bin\Debug\Assigment0903.exe
+E:\Assigment0903\Assigment0903\bin\Debug\Assigment0903.pdb
+E:\Assigment0903\Assigment0903\obj\Debug\Assigment0903.csprojAssemblyReference.cache
+E:\Assigment0903\Assigment0903\obj\Debug\Assigment0903.csproj.CoreCompileInputs.cache
+E:\Assigment0903\Assigment0903\obj\Debug\Assigment0903.exe
+E:\Assigment0903\Assigment0903\obj\Debug\Assigment0903.pdb
